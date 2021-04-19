@@ -1,3 +1,4 @@
 sample	status	group
 transcriptomics-deseq-helper-01	ready	control
 transcriptomics-deseq-helper-02	review	case
+transcriptomics-deseq-helper-03	queued	validation
